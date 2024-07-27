@@ -1,2 +1,3 @@
 ## Random Qutoe Generator with Random Color Generator
-Learning React
+Learning React .........
+This fetches a quote from an API and generates a random color in the background. You can share this quote on you X (Twitter).
